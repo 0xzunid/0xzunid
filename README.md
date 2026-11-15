@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/0xzunid/0xzunid.muse.ai/main/logo/zunid-token-logo.png" width="160" alt="ZM logo" />
 </p>
 
-<h1 align="center">0xzunid muse</h1>
+<h1 align="center">0xzunid.muse</h1>
 
 <p align="center"><strong>0xzunid.muse — zunid + muse, build - zero real money, legit airdrops, tokens, name service - soulbound NFTs on ARC, RobinHood, LitVM, EVM, mainnet-testnet.</strong></p>
 
