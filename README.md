@@ -4,7 +4,7 @@
 
 <h1 align="center">0xzunid muse</h1>
 
-<p align="center"><strong>Zunid + Muse — testnet only, zero real money, free and legit only.</strong></p>
+<p align="center"><strong>0xzunid.muse — zunid + muse, build - zero real money, legit #airdrops, tokens, name service - soulbound NFTs on ARC, RobinHood, LitVM, EVM, mainnet-testnet.</strong></p>
 
 <p align="center">
   <a href="https://github.com/0xzunid/0xzunid.muse.ai">Project repo</a> •
